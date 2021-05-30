@@ -8,3 +8,10 @@ Visit https://www.katacoda.com/manojpathak1992 to view the profile and interacti
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+
+
+
+        $ katacoda scenarios:create
+        $ git add .
+        $ git commit -m "New scenario"
+        $ git push origin master
